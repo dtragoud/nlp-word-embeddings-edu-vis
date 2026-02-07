@@ -48,9 +48,9 @@ st.sidebar.title("Settings")
 
 model_name = st.sidebar.selectbox(
     "Embedding Model",
-    options=["glove-wiki-gigaword-50", "glove-wiki-gigaword-100", "word2vec-google-news-300"],
+    options=["glove-wiki-gigaword-50", "glove-wiki-gigaword-100"],
     index=0,
-    help="Larger models are more accurate but slower to download.",
+    help="GloVe 100d is more accurate but slower to download (~128 MB vs ~66 MB).",
 )
 
 reduction_method = st.sidebar.selectbox(

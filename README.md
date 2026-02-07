@@ -81,7 +81,6 @@ nlp_word_embeddings/
 |-------|-----------|------|-------|
 | `glove-wiki-gigaword-50` | 50 | ~66 MB | Default. Fast, good for demos |
 | `glove-wiki-gigaword-100` | 100 | ~128 MB | Better accuracy |
-| `word2vec-google-news-300` | 300 | ~1.7 GB | Most accurate, slow download |
 
 ## Running Tests
 
