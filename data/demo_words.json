@@ -1,0 +1,7 @@
+{
+  "colors": ["red", "blue", "green", "yellow", "purple"],
+  "animals": ["dog", "cat", "lion", "tiger", "elephant"],
+  "royalty": ["king", "queen", "prince", "princess"],
+  "gender": ["man", "woman", "boy", "girl"],
+  "household": ["table", "chair", "bed", "lamp", "desk"]
+}
